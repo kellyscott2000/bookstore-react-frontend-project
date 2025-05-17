@@ -1,0 +1,10 @@
+.list-group a:hover {
+    background-color: goldenrod;
+    color: white;
+}
+.list-group a {
+    cursor: pointer;
+}
+.list-group {
+    gap: 60px;
+}
